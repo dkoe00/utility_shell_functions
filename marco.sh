@@ -1,3 +1,5 @@
+#!/bin/bash
+
 marco () {
 	echo $(pwd) > ~/Projects/missing/scripts/storage_files/marco.txt
 }
